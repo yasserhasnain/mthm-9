@@ -1,0 +1,78 @@
+{
+	"blog": {
+		"blogger_id": "854289214769493695",
+		"api_key": "AIzaSyD5A6zmm-GW87mSl2MEeTP77JW4wy4TT4A"
+	},
+	"app": {
+		"status": true,
+		"custom_label_list": false,
+		"report_email": "appsmakers2021@gmail.com",
+		"more_apps_url": "https://play.google.com/store/apps/dev?id=7872668932518858929",
+		"privacy_policy_url": "https://sites.google.com/view/appsmakers/innovational-apps-privacy-policy",
+		"redirect_url": ""
+	},
+	"ads": {
+		"ad_status": true,
+		"main_ads": "admob",
+		"backup_ads": "none",
+		"admob_publisher_id": "pub-5014654803700430",
+		"admob_banner_unit_id": "ca-app-pub-5014654803700430/2317293107",
+		"admob_interstitial_unit_id": "ca-app-pub-5014654803700430/7290418183",
+		"admob_native_unit_id": "ca-app-pub-5014654803700430/5964894070",
+		"admob_app_open_ad_unit_id": "ca-app-pub-5014654803700430/8411928161",
+		"ad_manager_banner_unit_id": "/6499/example/banner",
+		"ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+		"ad_manager_native_unit_id": "/6499/example/native",
+		"ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
+		"fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+		"fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+		"fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+		"startapp_app_id": "0",
+		"unity_game_id": "4089993",
+		"unity_banner_placement_id": "banner",
+		"unity_interstitial_placement_id": "video",
+		"applovin_banner_ad_unit_id": "0",
+		"applovin_interstitial_ad_unit_id": "0",
+		"applovin_native_ad_manual_unit_id": "0",
+		"applovin_app_open_ad_unit_id": "0",
+		"applovin_banner_zone_id": "0",
+		"applovin_banner_mrec_zone_id": "0",
+		"applovin_interstitial_zone_id": "0",
+		"ironsource_app_key": "85460dcd",
+		"ironsource_banner_id": "DefaultBanner",
+		"ironsource_interstitial_id": "DefaultInterstitial",
+		"wortise_app_id": "test-app-id",
+		"wortise_banner_ad_unit_id": "test-banner",
+		"wortise_interstitial_ad_unit_id": "test-interstitial",
+		"wortise_native_ad_unit_id": "test-native",
+		"wortise_app_open_ad_unit_id": "test-app-open",		
+		"interstitial_ad_interval": 1,
+		"native_ad_index": 3,
+		"native_ad_style_video_list": "large",
+		"native_ad_style_video_details": "large",
+		"native_ad_style_exit_dialog": "medium",
+		"placement": {
+		  "banner_home": true,
+		  "banner_video_details": true,
+		  "banner_category_details": true,
+		  "banner_search": true,
+		  "interstitial_video_list": true,
+		  "interstitial_video_details": true,
+		  "native_video_list": true,
+		  "native_video_details": true,
+		  "native_exit_dialog": true,
+		  "app_open_ad_on_start": true,
+		  "app_open_ad_on_resume": true
+		}
+	},
+	"notification": {
+	    "fcm_notification_topic": "notification",
+	    "onesignal_app_id": "bef5944b-2482-4cfc-ba6f-7351c9e87afb"
+	},
+	"labels": [
+		{
+			"term": "Maths Solved Exercises 9th",
+			"image": "https://imgur.com/TcZVU8o"
+		}
+	]
+}
